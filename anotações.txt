@@ -9,4 +9,7 @@ Anteriormente, as páginas da Web eram estáticas como páginas em um livro. Uma
 
 Anteriormente, as páginas da Web eram estáticas como páginas em um livro. Uma página estática exibia basicamente informações em um layout fixo e não fazia tudo que esperamos de um site moderno hoje em dia. O JavaScript surgiu como uma tecnologia do lado do navegador para tornar as aplicações Web mais dinâmicas. Ao usar JavaScript, os navegadores passaram a ser capazes de responder a interações do usuário e alterar o layout do conteúdo na página.
 
+
+Rogério Messias 
+
 À medida que a linguagem amadureceu, desenvolvedores de JavaScript estabeleceram bibliotecas, frameworks e práticas de programação, além de começar a usá-la fora dos navegadores da Web. Hoje em dia, é possível usar JavaScript para desenvolvimento tanto do lado do cliente quanto do lado do servidor. Nas próximas subseções, apresentamos alguns casos de uso comuns:
